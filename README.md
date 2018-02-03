@@ -1,0 +1,1 @@
+# This is a small program that simply allows you to create random passwords based on a list of possible characters. One you create the list, this will loop through the list and generate a new string based on an existing string. 
